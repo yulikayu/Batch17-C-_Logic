@@ -1,0 +1,9 @@
+﻿namespace coba
+{
+    class memory
+    {
+
+
+    }
+         
+}

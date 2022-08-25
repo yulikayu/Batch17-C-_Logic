@@ -1,0 +1,15 @@
+D:\yuli\C#\01-Fundamental\bin\Debug\net6.0\01-Fundamental.exe
+D:\yuli\C#\01-Fundamental\bin\Debug\net6.0\01-Fundamental.deps.json
+D:\yuli\C#\01-Fundamental\bin\Debug\net6.0\01-Fundamental.runtimeconfig.json
+D:\yuli\C#\01-Fundamental\bin\Debug\net6.0\01-Fundamental.dll
+D:\yuli\C#\01-Fundamental\bin\Debug\net6.0\01-Fundamental.pdb
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.csproj.AssemblyReference.cache
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.AssemblyInfoInputs.cache
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.AssemblyInfo.cs
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.csproj.CoreCompileInputs.cache
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.dll
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\refint\01-Fundamental.dll
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.pdb
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\01-Fundamental.genruntimeconfig.cache
+D:\yuli\C#\01-Fundamental\obj\Debug\net6.0\ref\01-Fundamental.dll
