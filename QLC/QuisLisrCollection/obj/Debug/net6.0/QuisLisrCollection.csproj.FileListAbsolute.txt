@@ -1,0 +1,15 @@
+D:\yuli\C#\QLC\QuisLisrCollection\bin\Debug\net6.0\QuisLisrCollection.exe
+D:\yuli\C#\QLC\QuisLisrCollection\bin\Debug\net6.0\QuisLisrCollection.deps.json
+D:\yuli\C#\QLC\QuisLisrCollection\bin\Debug\net6.0\QuisLisrCollection.runtimeconfig.json
+D:\yuli\C#\QLC\QuisLisrCollection\bin\Debug\net6.0\QuisLisrCollection.dll
+D:\yuli\C#\QLC\QuisLisrCollection\bin\Debug\net6.0\QuisLisrCollection.pdb
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.csproj.AssemblyReference.cache
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.AssemblyInfoInputs.cache
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.AssemblyInfo.cs
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.csproj.CoreCompileInputs.cache
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.dll
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\refint\QuisLisrCollection.dll
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.pdb
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\QuisLisrCollection.genruntimeconfig.cache
+D:\yuli\C#\QLC\QuisLisrCollection\obj\Debug\net6.0\ref\QuisLisrCollection.dll

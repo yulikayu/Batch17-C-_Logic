@@ -1,0 +1,15 @@
+D:\yuli\C#\QuisDay3Array\bin\Debug\net6.0\QuisDay3Array.exe
+D:\yuli\C#\QuisDay3Array\bin\Debug\net6.0\QuisDay3Array.deps.json
+D:\yuli\C#\QuisDay3Array\bin\Debug\net6.0\QuisDay3Array.runtimeconfig.json
+D:\yuli\C#\QuisDay3Array\bin\Debug\net6.0\QuisDay3Array.dll
+D:\yuli\C#\QuisDay3Array\bin\Debug\net6.0\QuisDay3Array.pdb
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.csproj.AssemblyReference.cache
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.AssemblyInfoInputs.cache
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.AssemblyInfo.cs
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.csproj.CoreCompileInputs.cache
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.dll
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\refint\QuisDay3Array.dll
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.pdb
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\QuisDay3Array.genruntimeconfig.cache
+D:\yuli\C#\QuisDay3Array\obj\Debug\net6.0\ref\QuisDay3Array.dll

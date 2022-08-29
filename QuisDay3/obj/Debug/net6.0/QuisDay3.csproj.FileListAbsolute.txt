@@ -1,0 +1,15 @@
+D:\yuli\C#\QuisDay3\bin\Debug\net6.0\QuisDay3.exe
+D:\yuli\C#\QuisDay3\bin\Debug\net6.0\QuisDay3.deps.json
+D:\yuli\C#\QuisDay3\bin\Debug\net6.0\QuisDay3.runtimeconfig.json
+D:\yuli\C#\QuisDay3\bin\Debug\net6.0\QuisDay3.dll
+D:\yuli\C#\QuisDay3\bin\Debug\net6.0\QuisDay3.pdb
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.csproj.AssemblyReference.cache
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.AssemblyInfoInputs.cache
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.AssemblyInfo.cs
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.csproj.CoreCompileInputs.cache
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.dll
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\refint\QuisDay3.dll
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.pdb
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\QuisDay3.genruntimeconfig.cache
+D:\yuli\C#\QuisDay3\obj\Debug\net6.0\ref\QuisDay3.dll

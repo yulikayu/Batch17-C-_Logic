@@ -1,0 +1,15 @@
+D:\yuli\C#\coba\bin\Debug\net6.0\coba.exe
+D:\yuli\C#\coba\bin\Debug\net6.0\coba.deps.json
+D:\yuli\C#\coba\bin\Debug\net6.0\coba.runtimeconfig.json
+D:\yuli\C#\coba\bin\Debug\net6.0\coba.dll
+D:\yuli\C#\coba\bin\Debug\net6.0\coba.pdb
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.csproj.AssemblyReference.cache
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.AssemblyInfoInputs.cache
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.AssemblyInfo.cs
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.csproj.CoreCompileInputs.cache
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.dll
+D:\yuli\C#\coba\obj\Debug\net6.0\refint\coba.dll
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.pdb
+D:\yuli\C#\coba\obj\Debug\net6.0\coba.genruntimeconfig.cache
+D:\yuli\C#\coba\obj\Debug\net6.0\ref\coba.dll
