@@ -50,5 +50,18 @@ Console.WriteLine(_01_Fundamental.Rabu03.MathCase.isPrima(4));
 _01_Fundamental.Rabu03.StringCase.StringsCase();
 _01_Fundamental.Rabu03.StringCase.ReversesString("ABC");
 */
-_01_Fundamental.Rabu03.DateTimeCase.DateTimeCases();
+//_01_Fundamental.Rabu03.DateTimeCase.DateTimeCases();
+
+//_01_Fundamental.Rabu03.MyCollettions.IntList();
+
+//deklarasi LIST<T>
+
+var list = new List<string>() { "Asep", "yuli", "widi" };
+var student = _01_Fundamental.Rabu03.MyCollettions.GetStudent (ref list);
+
+
+foreach (var item in student)
+{
+    Console.WriteLine ($" {item}");
+}  
 Console.ReadLine();
