@@ -1,0 +1,15 @@
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.csproj.AssemblyReference.cache
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.AssemblyInfoInputs.cache
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.AssemblyInfo.cs
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.csproj.CoreCompileInputs.cache
+D:\yuli\C#\OOPvol1\MingguKe4OOP\bin\Debug\net6.0\MingguKe4OOP.exe
+D:\yuli\C#\OOPvol1\MingguKe4OOP\bin\Debug\net6.0\MingguKe4OOP.deps.json
+D:\yuli\C#\OOPvol1\MingguKe4OOP\bin\Debug\net6.0\MingguKe4OOP.runtimeconfig.json
+D:\yuli\C#\OOPvol1\MingguKe4OOP\bin\Debug\net6.0\MingguKe4OOP.dll
+D:\yuli\C#\OOPvol1\MingguKe4OOP\bin\Debug\net6.0\MingguKe4OOP.pdb
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.dll
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\refint\MingguKe4OOP.dll
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.pdb
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\MingguKe4OOP.genruntimeconfig.cache
+D:\yuli\C#\OOPvol1\MingguKe4OOP\obj\Debug\net6.0\ref\MingguKe4OOP.dll
