@@ -1,0 +1,15 @@
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\bin\Debug\net6.0\ProjekSewaKendaraan.exe
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\bin\Debug\net6.0\ProjekSewaKendaraan.deps.json
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\bin\Debug\net6.0\ProjekSewaKendaraan.runtimeconfig.json
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\bin\Debug\net6.0\ProjekSewaKendaraan.dll
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\bin\Debug\net6.0\ProjekSewaKendaraan.pdb
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.csproj.AssemblyReference.cache
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.AssemblyInfoInputs.cache
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.AssemblyInfo.cs
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.csproj.CoreCompileInputs.cache
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.dll
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\refint\ProjekSewaKendaraan.dll
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.pdb
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ProjekSewaKendaraan.genruntimeconfig.cache
+D:\yuli\C#\OOPSewakendaraan\ProjekSewaKendaraan\obj\Debug\net6.0\ref\ProjekSewaKendaraan.dll
