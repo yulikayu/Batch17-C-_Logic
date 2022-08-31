@@ -1,0 +1,15 @@
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\bin\Debug\net6.0\OPPMinggu2Vol2.exe
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\bin\Debug\net6.0\OPPMinggu2Vol2.deps.json
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\bin\Debug\net6.0\OPPMinggu2Vol2.runtimeconfig.json
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\bin\Debug\net6.0\OPPMinggu2Vol2.dll
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\bin\Debug\net6.0\OPPMinggu2Vol2.pdb
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.csproj.AssemblyReference.cache
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.AssemblyInfoInputs.cache
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.AssemblyInfo.cs
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.csproj.CoreCompileInputs.cache
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.dll
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\refint\OPPMinggu2Vol2.dll
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.pdb
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\OPPMinggu2Vol2.genruntimeconfig.cache
+D:\yuli\C#\OOPvol1\OPPMinggu2Vol2\OPPMinggu2Vol2\obj\Debug\net6.0\ref\OPPMinggu2Vol2.dll
