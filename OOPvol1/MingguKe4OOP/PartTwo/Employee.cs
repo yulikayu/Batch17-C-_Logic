@@ -19,7 +19,7 @@ namespace MingguKe4OOP.PartTwo
         private string role;
         private decimal TotalSalary;
         //Static variable
-        public static int totalEmployee =0M;
+        public static int totalEmployee =0;
         public static decimal totalbasicSalary = 0M;
         // ini milik sebuah kelas bukan variable manapun bukan juga milik objek, bisa juga disebut sebagai global variabel
         // yang ruang lingkupnya didalam kelas

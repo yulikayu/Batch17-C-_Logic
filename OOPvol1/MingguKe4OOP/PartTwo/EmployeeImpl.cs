@@ -37,12 +37,44 @@ namespace MingguKe4OOP.PartTwo
             return emRange;
             //throw new NotImplementedException();
         }
-
-        public Dictionary<string, int> GetTotalIEmployeeByRole(List<Employee> list)
+        public Dictionary<string,int> GetTotalEmployeByRole(List<Employee> list)
         {
+            var dict = new Dictionary<string,int>();
+            int totProg =0;
+            int totSal = 0;
+            int totQA=0;
+
+            foreach (var item in list)
+            {
+                if(item.Role == "Programmer")
+                {
+                    totProg  ++;
+                }
+                else if (item.Role == "Sales")
+                {
+                    totSal ++;
+                }
+                else if (item.Role == "QA")
+                {
+                    totQA++;
+                }
+            }
+            dict.Add("Programmer", totProg);
+            dict.Add("Sales", totSal);
+            dict.Add("QA", totQA);
 
 
-           // throw new NotImplementedException();
+            return dict;
+
+        }
+        public void ShowEmployeByRole(Dictionary<string,int> dict)
+        {
+            foreach (var item in dict)
+            {   
+                Console.WriteLine($"Role : {item.Key}\n Total Employe : {item.Value}");
+            }
+
+           
         }
 
         public decimal GetTotalSalary<T>(ref List<T> list)
@@ -108,5 +140,7 @@ namespace MingguKe4OOP.PartTwo
 
            
         }
+
+        
     }
 }

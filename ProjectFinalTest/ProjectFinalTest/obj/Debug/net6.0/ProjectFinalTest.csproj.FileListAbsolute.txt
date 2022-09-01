@@ -1,0 +1,15 @@
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\bin\Debug\net6.0\ProjectFinalTest.exe
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\bin\Debug\net6.0\ProjectFinalTest.deps.json
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\bin\Debug\net6.0\ProjectFinalTest.runtimeconfig.json
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\bin\Debug\net6.0\ProjectFinalTest.dll
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\bin\Debug\net6.0\ProjectFinalTest.pdb
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.csproj.AssemblyReference.cache
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.AssemblyInfoInputs.cache
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.AssemblyInfo.cs
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.csproj.CoreCompileInputs.cache
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.dll
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\refint\ProjectFinalTest.dll
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.pdb
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ProjectFinalTest.genruntimeconfig.cache
+D:\yuli\C#\ProjectFinalTest\ProjectFinalTest\obj\Debug\net6.0\ref\ProjectFinalTest.dll

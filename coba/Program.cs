@@ -1,11 +1,34 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
 
-int a = 20;
-int b = a;
-a = 45;
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
 
-Console.WriteLine(a);
-Console.WriteLine(b);
+        public static int[] CariGenGan(int satu)
+        {
+            int [] arr= new int[satu];
 
-Console.ReadKey();
+
+
+            return arr;
+        }
+        static void Main(string[] args)
+        {
+            List<int> list= new List<int>();
+            string number = "123";
+            int n = Int32.Parse(number);
+            Console.WriteLine(n);
+
+            for (int i = 0; i < number.Length; i++)
+            {
+               
+            }
+
+            
+
+
+
+        }
+    }
+}

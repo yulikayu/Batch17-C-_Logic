@@ -18,6 +18,9 @@ namespace MingguKe4OOP.PartTwo
 
         public List<Employee> FindSalaryRange(List<Employee> list,decimal startFrom, decimal endTo);
 
-        public Dictionary<string, int> GetTotalIEmployeeByRole(List<Employee> list);
+        public Dictionary<string, int> GetTotalEmployeByRole(List<Employee> list);
+    
+        public void ShowEmployeByRole(Dictionary<string, int> dict);
+       
     }
 }

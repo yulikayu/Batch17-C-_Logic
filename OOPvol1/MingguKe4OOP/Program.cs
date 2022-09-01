@@ -63,6 +63,7 @@ WriteLine("============================================== Implementation Interfa
 IEmployee empInf = new EmployeeImpl();
 
 var listOfEmps = empInf.InitDataEmployee();
+WriteLine("========== LIST OF EMPLOYEE ================");
 empInf.showList(ref listOfEmps);
 var em = empInf.FindEmployeeById(listOfEmps, 1002);
 WriteLine();
@@ -76,6 +77,11 @@ WriteLine($"Total Salary : {total.ToString("C", new CultureInfo("id-ID"))}");
 WriteLine("------Salary Range--------");
 var empsSalaryRange = empInf.FindSalaryRange(listOfEmps, 2_000_000, 4_500_000);
 empInf.showList( ref empsSalaryRange);
+WriteLine("======== Total Employe by Role===============");
+var emRole = empInf.GetTotalEmployeByRole(listOfEmps);
+empInf.ShowEmployeByRole(emRole);
+
+
 
 
 
